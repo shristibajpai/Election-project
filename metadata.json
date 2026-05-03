@@ -1,0 +1,6 @@
+{
+  "name": "VoteWise Assistant",
+  "description": "An intelligent and interactive companion that simplifies the election process through structured journeys, visual timelines, and personalized AI guidance.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": []
+}
