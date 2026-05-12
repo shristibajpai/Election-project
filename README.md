@@ -1,20 +1,34 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# Election Project 🗳️
 
-# Run and deploy your AI Studio app
+Election Project is a simple and interactive voting system project designed to demonstrate the basic working of digital elections and vote management.
 
-This contains everything you need to run your app locally.
+## ✨ Features
+- 🧑 User voting system
+- 📊 Vote counting
+- 🔐 Secure voting logic
+- 📈 Result display
+- 🖥️ Easy-to-use interface
 
-View your app in AI Studio: https://ai.studio/apps/402276b0-7d56-4036-a823-42fcb2545062
+## 🛠️ Tech Stack
+- HTML
+- CSS
+- JavaScript
+- Python
 
-## Run Locally
+## 🎯 Objective
+The main objective of this project is to understand how an election management system works digitally and how votes can be processed efficiently.
 
-**Prerequisites:**  Node.js
+## 🚀 Future Improvements
+- Online authentication system
+- Admin dashboard
+- Live result analytics
+- Database integration
+- AI-based election insights
 
-
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+## 📂 Project Structure
+```bash
+Election-project/
+│── index.html
+│── style.css
+│── script.js
+│── assets/
